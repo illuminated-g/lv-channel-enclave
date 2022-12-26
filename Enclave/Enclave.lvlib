@@ -13,6 +13,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Data Types" Type="Folder">
 			<Item Name="Operation.ctl" Type="VI" URL="../Operation.ctl"/>
+			<Item Name="Tag Data.ctl" Type="VI" URL="../Tag Data.ctl"/>
 		</Item>
 		<Item Name="))Channel.vi" Type="VI" URL="../))Channel.vi"/>
 	</Item>
@@ -20,8 +21,8 @@
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Enclave.lvclass" Type="LVClass" URL="../Enclave/Enclave.lvclass"/>
 			<Item Name="Event.lvclass" Type="LVClass" URL="../Event/Event.lvclass"/>
-			<Item Name="Notifier.lvclass" Type="LVClass" URL="../Notifier/Notifier.lvclass"/>
-			<Item Name="Queue.lvclass" Type="LVClass" URL="../Queue/Queue.lvclass"/>
+			<Item Name="Lossless.lvclass" Type="LVClass" URL="../Lossless/Lossless.lvclass"/>
+			<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag/Tag.lvclass"/>
 			<Item Name="Writer.lvclass" Type="LVClass" URL="../Writer/Writer.lvclass"/>
 		</Item>
 		<Item Name="Data Types" Type="Folder">
