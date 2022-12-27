@@ -12,6 +12,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Enclave.lvlib" Type="Library" URL="../Enclave/Enclave.lvlib"/>
+		<Item Name="No Channel Wire Demo.vi" Type="VI" URL="../Demo/No Channel Wire Demo.vi"/>
+		<Item Name="Scalar Element Benchmark.vi" Type="VI" URL="../Demo/Scalar Element Benchmark.vi"/>
+		<Item Name="Scalar Queue Benchmark.vi" Type="VI" URL="../Demo/Scalar Queue Benchmark.vi"/>
+		<Item Name="Simple Lossy Class.vi" Type="VI" URL="../Demo/Simple Lossy Class.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
