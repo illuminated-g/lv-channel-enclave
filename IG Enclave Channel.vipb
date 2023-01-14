@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-26 16:45:55" Modified_Date="2022-12-26 20:16:57" Creator="Localization Tester" Comments="" ID="67a37588b5751ab382cffd7a8a3a371e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-26 16:45:55" Modified_Date="2022-12-27 21:48:33" Creator="Localization Tester" Comments="" ID="b7f178040ef1b2603ae8dd85dd28b95a">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Enclave_Channel</Package_File_Name>
-    <Library_Version>0.1.0.4</Library_Version>
+    <Library_Version>0.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -28,7 +28,7 @@
     <VI_Package_Configuration_File>IG Enclave Channel.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>Enclave is a Channel Wire Template that allows mixing Channel Wire paradigms with dataflow paradigms</One_Line_Description_Summary>
-      <Description/>
+      <Description>The Enclave Channel Wire is useful for APIs where the writer doesn't know/care how many and what type of data consumers there will be. All of the functionality of this channel wire template can be used without the channel wire as well.</Description>
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/illuminated-g/lv-channel-enclave</URL>

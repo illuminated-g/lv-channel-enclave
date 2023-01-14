@@ -37,9 +37,9 @@
 			<Item Name="Read Event Reg.vi" Type="VI" URL="../Read Event Reg.vi"/>
 			<Item Name="Read Lossless Class.vi" Type="VI" URL="../Read Lossless Class.vi"/>
 			<Item Name="Read Lossless.vi" Type="VI" URL="../Read Lossless.vi"/>
-			<Item Name="Read Lossy Class.vi" Type="VI" URL="../Read Lossy Class.vi"/>
-			<Item Name="Read Lossy.vi" Type="VI" URL="../Read Lossy.vi"/>
 			<Item Name="Read Null.vi" Type="VI" URL="../Read Null.vi"/>
+			<Item Name="Read Tag Class.vi" Type="VI" URL="../Read Tag Class.vi"/>
+			<Item Name="Read Tag.vi" Type="VI" URL="../Read Tag.vi"/>
 			<Item Name="Read Writer Class.vi" Type="VI" URL="../Read Writer Class.vi"/>
 			<Item Name="Write Abort.vi" Type="VI" URL="../Write Abort.vi"/>
 			<Item Name="Write Close.vi" Type="VI" URL="../Write Close.vi"/>
