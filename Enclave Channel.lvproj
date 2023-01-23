@@ -16,7 +16,11 @@
 		<Item Name="Scalar Element Benchmark.vi" Type="VI" URL="../Demo/Scalar Element Benchmark.vi"/>
 		<Item Name="Scalar Queue Benchmark.vi" Type="VI" URL="../Demo/Scalar Queue Benchmark.vi"/>
 		<Item Name="Simple Lossy Class.vi" Type="VI" URL="../Demo/Simple Lossy Class.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

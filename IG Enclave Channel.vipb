@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-26 16:45:55" Modified_Date="2022-12-27 21:48:33" Creator="Localization Tester" Comments="" ID="b7f178040ef1b2603ae8dd85dd28b95a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-12-26 16:45:55" Modified_Date="2023-01-22 21:43:37" Creator="Localization Tester" Comments="" ID="4085c48942e2bfd4af54cd882c5a656b">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Enclave_Channel</Package_File_Name>
-    <Library_Version>0.1.0.5</Library_Version>
+    <Library_Version>0.1.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -135,9 +135,6 @@
       <Exclusions>
         <Path>README.md</Path>
       </Exclusions>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>

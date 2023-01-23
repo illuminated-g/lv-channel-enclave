@@ -40,9 +40,9 @@
 			<Item Name="Read Null.vi" Type="VI" URL="../Read Null.vi"/>
 			<Item Name="Read Tag Class.vi" Type="VI" URL="../Read Tag Class.vi"/>
 			<Item Name="Read Tag.vi" Type="VI" URL="../Read Tag.vi"/>
-			<Item Name="Read Writer Class.vi" Type="VI" URL="../Read Writer Class.vi"/>
 			<Item Name="Write Abort.vi" Type="VI" URL="../Write Abort.vi"/>
 			<Item Name="Write Close.vi" Type="VI" URL="../Write Close.vi"/>
+			<Item Name="Write Writer Class.vi" Type="VI" URL="../Write Writer Class.vi"/>
 			<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
 		</Item>
 	</Item>
